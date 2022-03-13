@@ -1,9 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJM2308)](https://hits.seeyoufarm.com)
 <!--
 **JM2308/JM2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,14 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=JM2308&show_icons=true&hide_border=true)](https://github.com/JM2308)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM2308&layout=compact)](https://github.com/JM2308)
 
-<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
@@ -32,5 +28,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
-
 <br>
