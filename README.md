@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=JM2308&show_icons=true&hide_border=true)](https://github.com/JM2308)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM2308&layout=compact)](https://github.com/JM2308)
+<p align="center">
+  [![github stats](https://github-readme-stats.vercel.app/api?username=JM2308&show_icons=true&hide_border=true)](https://github.com/JM2308)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM2308&layout=compact)](https://github.com/JM2308)
+</p>
 
 <br>
 
