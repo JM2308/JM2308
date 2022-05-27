@@ -14,7 +14,7 @@
   - ⚡ Fun fact: ...
   -->
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Jimin%20Ko%20&fontSize=80&animation=fadeOut&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD740&height=200&section=header&text=Jimin%20Ko%20&fontSize=80&fontColor=111111&animation=fadeOut&fontAlignY=40)
 
   [![github stats](https://github-readme-stats.vercel.app/api?username=JM2308&show_icons=true&hide_border=false)](https://github.com/JM2308)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM2308&layout=compact)](https://github.com/JM2308)
