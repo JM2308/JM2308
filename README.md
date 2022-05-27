@@ -14,6 +14,8 @@
   - ⚡ Fun fact: ...
   -->
 
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Jimin%20Ko%20&fontSize=80&animation=fadeOut&fontAlignY=40)
+
   [![github stats](https://github-readme-stats.vercel.app/api?username=JM2308&show_icons=true&hide_border=true)](https://github.com/JM2308)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM2308&layout=compact)](https://github.com/JM2308)
   
@@ -34,6 +36,5 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFE400?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
-
 </p>
 <br>
